@@ -22,7 +22,7 @@ Regular health check-ups: Encourage Sunita Sharma to schedule regular health che
 
 Take medications as prescribed: If Sunita Sharma is taking medications, it is crucial to take them as prescribed by her doctor to manage any health conditions properly.
 
-Remember that small changes can make a big difference in improving health and well-being. Encourage Sunita Sharma to make gradual changes that she can maintain over time, and seek the advice of a medical professional before making any significant lifestyle changes.
+Remember that small changes can make a big difference in improving health and well-being. Encourage Sunita Sharma to make gradual changes that she can maintain over time, and seek the advice of a medical professional before making any significant lifestyle changes
 ## Available Scripts
 
 In the project directory, you can run:
